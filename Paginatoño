@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mi Bloc de Notas</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+        .container {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            background-color: #f9f9f9;
+        }
+        .container img {
+            max-width: 100%;
+            height: auto;
+            display: block;
+            margin: 0 auto 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <img src="file:///C:/Users/juan%20daniel/OneDrive/Documentos/Logotipo%20voleibol.jpg" alt="Mi Imagen">
+        <p>
+            Esta es la paguina oficial del club deportivo de voleibol Duraznos de la
+            comunidad de Tetela de Ocampo.
+            Objetivo General:
+            Fomentar el desarrollo integral de los jóvenes a través de la práctica del voleibol,
+            promoviendo valores como el trabajo en equipo, la disciplina y el respeto, con el fin 
+            de contribuir a la formación de ciudadanos comprometidos y activos en la sociedad.
+            
+            Misión:
+            Nuestra misión es ser un espacio de encuentro donde los jóvenes puedan desarrollar sus
+            habilidades deportivas en el voleibol, bajo la tutela de entrenadores calificados y en 
+            un ambiente inclusivo y motivador. Buscamos formar no solo atletas competitivos, sino 
+            también personas íntegras, capaces de enfrentar los desafíos tanto dentro como fuera de la cancha, 
+            con pasión, dedicación y espíritu deportivo.
+            
+            Visión:
+            Nos visualizamos como un club reconocido a nivel local y regional por la excelencia en la formación 
+            deportiva y humana de nuestros integrantes. Buscamos ser un referente en la promoción del voleibol como 
+            vehículo de valores y desarrollo personal, contribuyendo al crecimiento y fortalecimiento de la comunidad 
+            deportiva en nuestra región.
+        </p>
+    </div>
+</body>
+</html>
